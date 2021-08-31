@@ -1,0 +1,18 @@
+.ItemDetail {
+  display: block;
+  /* margin: 50px; */
+  text-align: center;
+}
+
+.ItemDetail .picture {
+  /* width: 100%; */
+  color: black;
+}
+
+.ItemDetail_Name {
+  text-align: center;
+}
+
+.Detail_Box {
+  text-align: center;
+}

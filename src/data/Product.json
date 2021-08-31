@@ -1,0 +1,30 @@
+{
+    "product":
+    [
+    {"name":"GREENTEA CAKE 3", "category":"GATEAUX KEM TƯƠI", "img":"/picture/GATEAUX_KEM_TƯƠI_1.png", "cost":220000}, 
+    {"name":"FRUIT CAKE", "category":"GATEAUX KEM TƯƠI", "img":"/picture/GATEAUX_KEM_TƯƠI_2.png", "cost":220000} ,
+    {"name":"COCONUT CAKE", "category":"GATEAUX KEM TƯƠI", "img":"/picture/GATEAUX_KEM_TƯƠI_3.png", "cost":220000},
+    {"name":"TIRAMISU VUÔNG", "category":"GATEAUX KEM TƯƠI", "img":"/picture/GATEAUX_KEM_TƯƠI_4.png", "cost":300000},
+    {"name":"RED VELVET CAKE VUÔNG", "category":"GATEAUX KEM TƯƠI", "img":"/picture/GATEAUX_KEM_TƯƠI_5.png", "cost":300000},
+    {"name":"CAPUCCINO", "category":"GATEAUX KEM TƯƠI", "img":"/picture/GATEAUX_KEM_TƯƠI_6.png", "cost":330000},
+    {"name":"DARK CHOCOLATE CAKE", "category":"GATEAUX KEM BƠ", "img":"/picture/GATEAUX_KEM_BƠ_1.png", "cost":300000},
+    {"name":"CHOCOLATE CAKE FRUIT", "category":"GATEAUX KEM BƠ", "img":"/picture/GATEAUX_KEM_BƠ_2.png", "cost":250000},
+    {"name":"DARK CHOCOLATE", "category":"GATEAUX KEM BƠ", "img":"/picture/GATEAUX_KEM_BƠ_3.png", "cost":250000},
+    {"name":"MOKA CAKE", "category":"GATEAUX KEM BƠ", "img":"/picture/GATEAUX_KEM_BƠ_4.png", "cost":300000},
+    {"name":"OPERA VUÔNG", "category":"GATEAUX KEM BƠ", "img":"/picture/GATEAUX_KEM_BƠ_5.png", "cost":330000},
+    {"name":"WHITE CHOCOLATE AND", "category":"GATEAUX KEM BƠ", "img":"/picture/GATEAUX_KEM_BƠ_6.png", "cost":250000},
+    {"name":"BLUE BERRY MOUSSE", "category":"BÁNH MOUSSE", "img":"/picture/BÁNH_MOUSSE_1.png", "cost":300000},
+    {"name":"CARAMEL CHOCOLATE.", "category":"BÁNH MOUSSE", "img":"/picture/BÁNH_MOUSSE_2.png", "cost":300000},
+    {"name":"CHERRY CHEESE MOUSSE", "category":"BÁNH MOUSSE", "img":"/picture/BÁNH_MOUSSE_3.png", "cost":300000},
+    {"name":"HAWAI MOUSSE", "category":"BÁNH MOUSSE", "img":"/picture/BÁNH_MOUSSE_4.png", "cost":300000},
+    {"name":"PASSION MOUSSE CHANH", "category":"BÁNH MOUSSE", "img":"/picture/BÁNH_MOUSSE_5.png", "cost":300000},
+    {"name":"RASPBERRY CREAM CHESSE", "category":"BÁNH MOUSSE", "img":"/picture/BÁNH_MOUSSE_6.png", "cost":300000},
+    {"name":"CARAMEL AND CHOCOLATE", "category":"GATEAUX MOUSSE", "img":"/picture/GATEAUX_MOUSSE_1.png", "cost":300000},
+    {"name":"CARAMEL CHOCOLATE", "category":"GATEAUX MOUSSE", "img":"/picture/GATEAUX_MOUSSE_2.png", "cost":300000},
+    {"name":"CARAMEL COCONUT CAKE", "category":"GATEAUX MOUSSE", "img":"/picture/GATEAUX_MOUSSE_3.png", "cost":300000},
+    {"name":"CARAMEL COCONUT CAKE 2", "category":"GATEAUX MOUSSE", "img":"/picture/GATEAUX_MOUSSE_4.png", "cost":300000},
+    {"name":"CHOCOLATE MATCHA CAKE", "category":"GATEAUX MOUSSE", "img":"/picture/GATEAUX_MOUSSE_5.png", "cost":300000}
+    
+    ]
+}
+

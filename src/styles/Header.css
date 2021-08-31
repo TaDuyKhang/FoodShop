@@ -1,0 +1,80 @@
+.bix_box {
+  background: rgba(74, 29, 34, 0.9);
+}
+.form {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.box {
+  /* vertical-align: middle; */
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: auto;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: wheat;
+  font-size: 18px;
+}
+span {
+  padding: 15px;
+}
+
+input {
+  height: 25px;
+}
+button {
+  height: 30px;
+}
+
+.icon {
+  border: 1px solid wheat;
+  color: #5b3236;
+  background-color: wheat;
+  border-radius: 50%;
+  padding: 2px;
+}
+
+.DropDown:hover .TypeBox {
+  display: block;
+}
+
+.DropDown {
+  position: relative;
+  color: wheat;
+}
+.TypeBox {
+  display: none;
+  position: absolute;
+  z-index: 10;
+  text-decoration: none;
+  width: 200px;
+  margin: 0;
+  /* padding: 10px; */
+  background-color: rgb(40, 44, 52);
+  list-style: none;
+  border: 1px solid rgb(40, 44, 52);
+  border-radius: 10px;
+  padding: 0;
+}
+
+.TypeBox li {
+  color: wheat;
+  list-style: none;
+}
+
+.TypeBox span {
+  color: wheat;
+}
+
+.TypeBox ul {
+  padding: 10px;
+}
+
+.item {
+  margin: 5px;
+}

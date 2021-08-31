@@ -1,0 +1,17 @@
+.ItemBox {
+  width: 20%;
+  display: inline-block;
+  margin: 20px;
+  color: black;
+  border-radius: 20px;
+  border: 1px solid wheat;
+  overflow: hidden;
+}
+
+.ItemBox .picture {
+  width: 100%;
+}
+
+.ItemBox span {
+  display: block;
+}

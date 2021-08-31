@@ -1,0 +1,10 @@
+{
+    "data":
+    [
+    {"name":"BLUE BERRY CHOCOLATE", "img":"/picture/banh1.webp", "cost":220000}, 
+    {"name":"CAPUCCINO", "img":"/picture/banh2.webp", "cost":220000} ,
+    {"name":"CARAMEL AND CHOCOLATE", "img":"/picture/banh3.webp", "cost":330000},
+    {"name":"CARAMEL CHOCOLATE", "img":"/picture/banh4.webp", "cost":300000}
+    ]
+}
+

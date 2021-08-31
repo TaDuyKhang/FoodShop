@@ -1,0 +1,14 @@
+.card_Box {
+  margin: 0 auto;
+  /* border: 1px solid rgb(0, 242, 250); */
+  background-color: rgb(0, 242, 250);
+  border-radius: 50px;
+  width: 80%;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.card_Item {
+  display: flex;
+  justify-content: space-around;
+}
